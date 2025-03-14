@@ -8,7 +8,7 @@ http://127.0.0.1:8000/restaurant/
 Shows basic static HTML content from the restaurant, if not please authenticate as shown in QUESTION 4.
 
 Q2. Has the learner committed the project to a Git repository?
-There's a git file, so yes.
+https://github.com/marcellofeag/capstone
 
 Q3. Does the application connect the backend to a MySQL database?
 Yes, so remember to turn on the MYSQL80 service on Windows
